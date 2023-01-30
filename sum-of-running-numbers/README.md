@@ -1,4 +1,4 @@
-
+                  # Calculate the sum of positive numbers.
 - This program will calculate will the sum of running numbers, when a negative number is encountered, it will stop adding numbers and write out the final result.
 - To use the program, clone it using the command below.
 
