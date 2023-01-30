@@ -17,7 +17,7 @@ python 'Sum of two given inputs.py'
 ```
 - Ubuntu/Debian
 ```ruby
-python3 Sum\of\two\given\inputs.py
+python3 "Sum of two given inputs.py"
 ```
 
 ### Voila. 
